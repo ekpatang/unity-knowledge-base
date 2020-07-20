@@ -12,8 +12,8 @@ media_folder: static/images
 public_folder: public
 
 collections:
-  - name: page
-    label: Page
+  - name: article
+    label: Articles
     folder: "src/pages"
     create: true
     fields:
